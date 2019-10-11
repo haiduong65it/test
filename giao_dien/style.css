@@ -1,0 +1,107 @@
+a
+{
+	text-decoration: none;
+}
+
+div.menu_ngang a 
+{
+	color:blue;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-size:20px;
+}
+div.menu_ngang a:hover
+{
+	color:red
+}
+div.menu_doc a 
+{
+	color:blue;
+	text-decoration: none;
+	display:block;
+}
+div.menu_doc a:hover
+{
+	color:red
+}
+div.phan_trang a 
+{
+	font-size:36px;
+	margin-left:5px;
+	margin-right:5px;
+	text-decoration: none;
+	color:blue;
+}
+div.phan_trang a:hover 
+{
+	color:red
+}
+
+.footer{
+		background-color: #3C3F44;
+		clear: both;
+	}
+.footer .ft .contact p{
+	color: #fafafa;
+	padding-left: 15px;
+}
+.footer .ft p{
+	padding-top: 10px;
+}
+.bold{
+	font-size: 15px;
+	font-weight: bold;
+}
+.footer .ft a{
+	padding-left: 15px;
+	text-decoration: none;
+	color: #f1f1f1;
+}
+.footer .ft a:hover{
+	color: #3B5998;
+}
+.footer .ft p i{
+	padding-right: 15px;
+}
+.footer .ft .connect i{
+	width: 40px;
+	height: 40px;
+	background-color: #3B5998;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 50%;
+	float: left;
+}
+.footer .ft .connect i:hover{
+	color: #3B5998;
+	width: 46px;
+	height: 46px;
+	line-height: 46px;
+	transition: 0.4s;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	background-color: #fafafa;
+}
+.footer .ft .connect a{
+	padding: 0px;	
+}
+.footer .ft .connect {
+	list-style: none;
+	height: 40px;
+	padding-top: 10px;
+}
+.footer .ft .connect li{
+	float: left;
+	margin-left: -22px;
+	padding-right: 28px;	
+}
+.footer .titleft{
+	font-size: 20px;
+	color: #fafafa;
+	font-weight: bold;
+	font-family: tahoma;
+	border-bottom: 4px #fafafa solid;
+	margin-top: 10px;
+	margin-left: 15px;
+}
